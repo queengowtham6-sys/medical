@@ -1,0 +1,50 @@
+Medical store system
+
+Introduction:
+
+Medical store system is the system in which we need to manage and 
+analyse the medicines and arrange it accordingly.
+
+Purpose:
+
+Medical store system is to make the medicine management simple and 
+easy.To make the record of medicines prices,sales and date.
+
+Functional requirement of medical store system:
+
+To check the avalabelity medical stock
+To check the expiry dates of medical
+Arranging it in orderwise 
+Updating the prices in record
+Recording the sales and bills
+
+Non functional requirements:
+Making easy to take any medicines.
+Make management simple and easy.
+Keeping tracks on dates and expiry dates.
+Make easy and fast for payment.
+
+Characteristics:
+
+Quick accessebality.
+Secure management.
+Updates and security.
+
+ Acceptance crateria:
+
+Given medicine gets fastly and quickly.
+The medicines should not be expired.
+The medicines should be kept in arranged order.
+Avalabilty of stocks.
+Quick accessebility.
+
+
+
+
+
+  
+
+
+
+
+
